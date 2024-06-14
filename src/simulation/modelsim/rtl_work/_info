@@ -1,0 +1,183 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/simulation/modelsim
+Et_1sec
+Z1 w1718394351
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z5 8C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/timers.vhd
+Z6 FC:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/timers.vhd
+l0
+L5 1
+V1ciV39V0NnYOlogWN^emh2
+!s100 3YmFQ6Zn3g`1nCSgPNG_j1
+Z7 OV;C;2020.1;71
+31
+Z8 !s110 1718394615
+!i10b 1
+Z9 !s108 1718394615.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/timers.vhd|
+Z11 !s107 C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/timers.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 t_1sec 0 22 1ciV39V0NnYOlogWN^emh2
+!i122 0
+l18
+L13 28
+VSa68O03VOo;i1dbQjdj[C2
+!s100 Ua1[K6AVmIJHLdhbW:EjG2
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Et_5sec
+R1
+R2
+R3
+R4
+!i122 0
+R0
+R5
+R6
+l0
+L47 1
+VICQhWEilk`D0V7ISFZecd3
+!s100 :PRYbli3AUE=Rh3ICcQmJ1
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 t_5sec 0 22 ICQhWEilk`D0V7ISFZecd3
+!i122 0
+l62
+L55 29
+V;FN=S1WS:CV8E;4@_bZjR3
+!s100 zm>DmNem>m>Z7MoFUI`<[3
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etestbench
+Z14 w1718394438
+Z15 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R3
+R4
+!i122 2
+R0
+Z16 8C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/Testbench.vhd
+Z17 FC:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/Testbench.vhd
+l0
+L6 1
+VjIOOAC86A[:>b47NoJOE]1
+!s100 Fh`N8R44oZoZMTeJIK@J@3
+R7
+31
+Z18 !s110 1718394616
+!i10b 1
+Z19 !s108 1718394616.000000
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/Testbench.vhd|
+!s107 C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/Testbench.vhd|
+!i113 1
+R12
+R13
+Atest
+R15
+R3
+R4
+DEx4 work 9 testbench 0 22 jIOOAC86A[:>b47NoJOE]1
+!i122 2
+l30
+L9 42
+V[AUSdC2Okz;ha@8ZEjHl?2
+!s100 La]hWRMZ`l^`RGbU]Lkc<3
+R7
+31
+R18
+!i10b 1
+R19
+R20
+Z21 !s107 C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/Testbench.vhd|
+!i113 1
+R12
+R13
+Etraffic_controller
+Z22 w1718391215
+R2
+R3
+R4
+!i122 1
+R0
+Z23 8C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/traffic_controller.vhd
+Z24 FC:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/traffic_controller.vhd
+l0
+L5 1
+VM67Ok901h;W3SgUXH>BIb0
+!s100 l7md6WOVOSBb=O<_70E5Q2
+R7
+31
+R18
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/traffic_controller.vhd|
+Z26 !s107 C:/Users/ASUS/Documents/quartus/Traffic-Lights-Controller/src/traffic_controller.vhd|
+!i113 1
+R12
+R13
+Abehavioural
+R2
+R3
+R4
+DEx4 work 18 traffic_controller 0 22 M67Ok901h;W3SgUXH>BIb0
+!i122 1
+l29
+L13 99
+VLbijiC:Ai:>DWXIQ1WNL72
+!s100 hOz:R52YzOHlnBT8T>Jie1
+R7
+31
+R18
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
