@@ -45,6 +45,7 @@ This project is the VHDL implementation of a state machine designed to control t
 #### Simulation
 
 ![rtl-view](https://github.com/shantanu-pande/Traffic-Lights-Controller/blob/main/images/Screenshot_0.png?raw=true)
+for simulation decrease the clock frequency as simulation runs on unit nano seconds*
 ## Authors
 
 - [@shantanu-pande](https://www.github.com/shantanu-pande)
